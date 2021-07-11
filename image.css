@@ -1,0 +1,30 @@
+#head
+{
+    font-size: 22px;
+    color: whitesmoke;
+    width: 100%;
+    margin: 0;
+}
+#back
+{
+    background-color: black;
+    color: whitesmoke;
+    float: right;
+    font-size: 20px;
+    margin: 20px;
+}
+canvas
+{
+    border-radius: 10px;
+    border: 4px solid aliceblue;
+    box-shadow: 5px 5px 5px red;
+    margin: 30px;
+}
+body
+{
+    text-align: center;
+}
+#status
+{
+    font-size: 18px;
+}
